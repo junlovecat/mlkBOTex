@@ -13,14 +13,10 @@ from urllib.request import urlopen
 from urllib.request import Request, urlopen
 from bs4 import BeautifulSoup
 from urllib.parse import quote
-from googlesearch import search
-import requests
 import unicodedata
 import json
 import urllib.parse
 import urllib.request
-import wikipedia
-import conf
 import datetime
 import time
 
